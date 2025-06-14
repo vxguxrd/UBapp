@@ -344,7 +344,7 @@ export default function SetupScreen() {
                   1. Chaque joueur reçoit secrètement son mot{'\n'}
                   2. À tour de rôle, donnez un indice{'\n'}
                   3. Votez pour éliminer un suspect{'\n'}
-                  4. Répétez jusqu'à la victoire{\'\n\n'}
+                  4. Répétez jusqu'à la victoire{'\n\n'}
                   
                   <Text style={styles.modalBold}>Conditions de victoire :</Text>{'\n'}
                   • Civils : Éliminer tous les Undercovers{'\n'}
